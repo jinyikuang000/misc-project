@@ -1,4 +1,0 @@
-var displayTime = 1;
-new PeriodicalExecuter(function(){
-if($('NextButton'))$('NextButton').click();
-},displayTime);
