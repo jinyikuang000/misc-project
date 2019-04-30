@@ -1,0 +1,86 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Consent,Q47,Bet Red Part A,Q170,Bet Red Part B,Q130,Dictator Game,Q204_First Click,Q204_Last Click,Q204_Page Submit,Q204_Click Count,Bet Blue Part A,Q138,Bet Blue Part B,Q143,Trust Game_1_1,Trust Game_2_1,Trust Game_3_1,Trust Game_4_1,Trust Game_5_1,Trust Game_6_1,Trust Game_7_1,Trust Game_8_1,Trust Game_9_1,Trust Game_10_1,Q205_First Click,Q205_Last Click,Q205_Page Submit,Q205_Click Count,Bet Green Part A,Q149,Bet Green Part B,Q154,PGG,Q206_First Click,Q206_Last Click,Q206_Page Submit,Q206_Click Count,Risk,SVO1,SVO2,SVO3,SVO4,SVO5,SVO6,Q207_First Click,Q207_Last Click,Q207_Page Submit,Q207_Click Count,General Trust,Q199,Q200,Gender,Age,Q40,Imas Risk Decision,YR1,OR2,YR2,OR2,YR3,OR3,YR4,OR4,YR5,OR5,YR6,OR6,SC0,MTurkCode,outcomes,bet1B,outcomes1B,color1B,bonus1B,bet1A,outcomes1A,color1A,bonus1A,dictator,bonus1A_num,bonus1B_num,TotalBonus1,bet2B,outcomes2B,color2B,bonus2B,bet2A,outcomes2A,color2A,bonus2A,bonus2B_num,bonus2A_num,TotalBonus2,bet3B,outcomes3B,color3B,bonus3B,bet3A,outcomes3A,color3A,bonus3A,bonus3B_num,bonus3A_num,TotalBonus3,Outcomes_value_3
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,"CONSENT AGREEMENT
+ 
+
+Welcome to a decision-making experiment. This study will last approximately 7-10 minutes. There are no risks or discomforts associated with this research beyond those associated with normal decision making in real-world situations. If you agree to participate in this study, you will need to make decisions and provide demographic information. We will not ask for your name or any information that will make you identifiable.
+
+ 
+
+Through this work, we hope to gain a better understanding of human decision-making. You will receive $0.20 as compensation for your participation in this study, with the opportunity to earn additional money as a bonus payment. You can expect to receive all payment within a week of completing this study. Your participation in this study is completely voluntary, and you may refuse to participate or withdraw from the study without penalty or loss of benefits to which you may otherwise be entitled. You must be 18 or older to participate.
+
+ 
+
+We do not evaluate individual responses and we will only analyze and report general trends. Responses will be identified by an assigned ID number with no names of participants appearing on the response form.
+
+ 
+
+If there is anything unclear about your participation in the study or the study itself, or if you wish to report a research-related problem, you may contact the Behavioral Ethics Lab at behavioralethicslab@gmail.com For any questions, concerns, suggestions, or complaints about your rights as a research participant, please contact mbdsmturk@gmail.com.
+
+ 
+By clicking the consent button, I agree that I have understood the above explanation and give consent to my voluntary participation in this research.",Please enter your MTurk ID:,Please bet on which color the arrow will land on:,Click button to spin wheel Click Here,Please bet on which color the arrow will land on:,Click button to spin wheel Click Here,"In this part, you start with 10 ECU in your account and are asked to distribute money between you and one other participant. The other participant has no initial endowment (0 ECU).  Please choose the amount that you would like to transfer to the other participant. You will be left with the remaining amount.",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Please bet on which color the arrow will land on:,Click button to spin wheel Click Here,Please bet on which color the arrow will land on:,Click button to spin wheel Click Here,The left hand column represents the amount you receive. In the box to the right please indicate how much you would send back. You can send back any amount upto the value initially sent to you. - 3 - I want to send back:,The left hand column represents the amount you receive. In the box to the right please indicate how much you would send back. You can send back any amount upto the value initially sent to you. - 6 - I want to send back:,The left hand column represents the amount you receive. In the box to the right please indicate how much you would send back. You can send back any amount upto the value initially sent to you. - 9 - I want to send back:,The left hand column represents the amount you receive. In the box to the right please indicate how much you would send back. You can send back any amount upto the value initially sent to you. - 12 - I want to send back:,The left hand column represents the amount you receive. In the box to the right please indicate how much you would send back. You can send back any amount upto the value initially sent to you. - 15 - I want to send back:,The left hand column represents the amount you receive. In the box to the right please indicate how much you would send back. You can send back any amount upto the value initially sent to you. - 18 - I want to send back:,The left hand column represents the amount you receive. In the box to the right please indicate how much you would send back. You can send back any amount upto the value initially sent to you. - 21 - I want to send back:,The left hand column represents the amount you receive. In the box to the right please indicate how much you would send back. You can send back any amount upto the value initially sent to you. - 24 - I want to send back:,The left hand column represents the amount you receive. In the box to the right please indicate how much you would send back. You can send back any amount upto the value initially sent to you. - 27 - I want to send back:,The left hand column represents the amount you receive. In the box to the right please indicate how much you would send back. You can send back any amount upto the value initially sent to you. - 30 - I want to send back:,Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Please bet on which color the arrow will land on:,Click button to spin wheel Click Here,Please bet on which color the arrow will land on:,Click button to spin wheel Click Here,"In this part, you start with 10 ECU in your account
+
+ 
+
+You are in a group of 4 participants. Each of you has 10 ECU and is requested to make a decision on how to invest the 10 ECU.
+
+ 
+There is a private account and a group account. You have to choose how much you want to invest in the group account. The remaining ECU that you choose not to invest in the group account will be invested in the private account. For each ECU invested in the private account, you will receive 1 ECU (= 1:1 ratio). Each ECU invested in the group account will yield 3 ECU for the group (= 1:3 ratio). 
+
+
+
+Each person in the group will receive an equal share (one-4th) of the money in the group account regardless of the individual contribution. Every group member can decide independently how much to invest in the group account. 
+
+
+
+Please choose the amount that you would like to invest in the group account.",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"How do you see yourself: are you generally a person who is fully prepared to take risks or do you try to avoid taking risks?
+
+
+
+Please tick a box on the scale, where the value 0 means: ‘not at all willing to take risks’ and the value 10 means: ‘very willing to take risks’.",You Receive | |Other Receives,"You Receive
+
+ |
+
+ |
+
+Other Receives","You Receive
+
+ |
+
+ |
+
+Other Receives","You Receive
+
+ |
+
+ |
+
+Other Receives","You Receive
+
+ |
+
+ |
+
+Other Receives","You Receive
+
+ |
+
+ |
+
+Other Receives",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,"Generally speaking, would you say that most people can be trusted or that you need to be very careful in dealing with people?","Did you experience any technical issues (e.g. with the spinning wheel)? If so, please describe briefly.",Please describe the nature of the issue here:,Please indicate your gender.,Please indicate your age in years.,Please include any further comments that you have below:,"In this part, you start with 10 ECU in your account
+
+You must decide whether you would like to invest up to 10 ECU in the following lottery:
+
+ 
+
+There is a 1/6 (17%) chance that the lottery will “succeed” and you will make 7 times the amount you invested. There is a 5/6 (83%) chance the lottery will “fail” and you will lose the money you invested.
+
+ 
+
+Whether the lottery succeeds or fails will be determined as follows: you are assigned the number 6 as your ""success number"". After you indicate the amount you would like to invest in the lottery, you will be taken to a page where you will click to roll a six-sided die. If the outcome is your “success number” (1/6 chance) then the lottery will succeed and you will make seven times (7x) the amount you invested.  If the outcome is any other number (5/6 chance) then you will lose the amount you invested.
+
+ 
+
+Please indicate the amount you would like to invest in the field below.",You receive:,Other receives:,You receive:,Other receives:,You receive:,Other receives:,You receive:,Other receives:,You receive:,Other receives:,You receive:,Other receives:,Score,MTurkCode,outcomes,bet1B,outcomes1B,color1B,bonus1B,bet1A,outcomes1A,color1A,bonus1A,dictator,bonus1A_num,bonus1B_num,TotalBonus1,bet2B,outcomes2B,color2B,bonus2B,bet2A,outcomes2A,color2A,bonus2A,bonus2B_num,bonus2A_num,TotalBonus2,bet3B,outcomes3B,color3B,bonus3B,bet3A,outcomes3A,color3A,bonus3A,bonus3B_num,bonus3A_num,TotalBonus3,Outcomes_value_3
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID39""}","{""ImportId"":""QID62_TEXT""}","{""ImportId"":""QID96""}","{""ImportId"":""QID186""}","{""ImportId"":""QID129""}","{""ImportId"":""QID130""}","{""ImportId"":""QID79_TEXT""}","{""ImportId"":""QID222_FIRST_CLICK""}","{""ImportId"":""QID222_LAST_CLICK""}","{""ImportId"":""QID222_PAGE_SUBMIT""}","{""ImportId"":""QID222_CLICK_COUNT""}","{""ImportId"":""QID137""}","{""ImportId"":""QID138""}","{""ImportId"":""QID142""}","{""ImportId"":""QID143""}","{""ImportId"":""QID165_1_1""}","{""ImportId"":""QID165_2_1""}","{""ImportId"":""QID165_3_1""}","{""ImportId"":""QID165_4_1""}","{""ImportId"":""QID165_5_1""}","{""ImportId"":""QID165_6_1""}","{""ImportId"":""QID165_7_1""}","{""ImportId"":""QID165_8_1""}","{""ImportId"":""QID165_9_1""}","{""ImportId"":""QID165_10_1""}","{""ImportId"":""QID223_FIRST_CLICK""}","{""ImportId"":""QID223_LAST_CLICK""}","{""ImportId"":""QID223_PAGE_SUBMIT""}","{""ImportId"":""QID223_CLICK_COUNT""}","{""ImportId"":""QID148""}","{""ImportId"":""QID149""}","{""ImportId"":""QID153""}","{""ImportId"":""QID154""}","{""ImportId"":""QID158_TEXT""}","{""ImportId"":""QID224_FIRST_CLICK""}","{""ImportId"":""QID224_LAST_CLICK""}","{""ImportId"":""QID224_PAGE_SUBMIT""}","{""ImportId"":""QID224_CLICK_COUNT""}","{""ImportId"":""QID97""}","{""ImportId"":""QID173""}","{""ImportId"":""QID177""}","{""ImportId"":""QID178""}","{""ImportId"":""QID179""}","{""ImportId"":""QID180""}","{""ImportId"":""QID181""}","{""ImportId"":""QID225_FIRST_CLICK""}","{""ImportId"":""QID225_LAST_CLICK""}","{""ImportId"":""QID225_PAGE_SUBMIT""}","{""ImportId"":""QID225_CLICK_COUNT""}","{""ImportId"":""QID182""}","{""ImportId"":""QID217""}","{""ImportId"":""QID218_TEXT""}","{""ImportId"":""QID15""}","{""ImportId"":""QID16_TEXT""}","{""ImportId"":""QID55_TEXT""}","{""ImportId"":""QID29_TEXT""}","{""ImportId"":""QID106_TEXT""}","{""ImportId"":""QID107_TEXT""}","{""ImportId"":""QID111_TEXT""}","{""ImportId"":""QID112_TEXT""}","{""ImportId"":""QID115_TEXT""}","{""ImportId"":""QID116_TEXT""}","{""ImportId"":""QID119_TEXT""}","{""ImportId"":""QID120_TEXT""}","{""ImportId"":""QID123_TEXT""}","{""ImportId"":""QID124_TEXT""}","{""ImportId"":""QID127_TEXT""}","{""ImportId"":""QID128_TEXT""}","{""ImportId"":""SC_b270iD4tlo4CCdT""}","{""ImportId"":""MTurkCode""}","{""ImportId"":""outcomes""}","{""ImportId"":""bet1B""}","{""ImportId"":""outcomes1B""}","{""ImportId"":""color1B""}","{""ImportId"":""bonus1B""}","{""ImportId"":""bet1A""}","{""ImportId"":""outcomes1A""}","{""ImportId"":""color1A""}","{""ImportId"":""bonus1A""}","{""ImportId"":""dictator""}","{""ImportId"":""bonus1A_num""}","{""ImportId"":""bonus1B_num""}","{""ImportId"":""TotalBonus1""}","{""ImportId"":""bet2B""}","{""ImportId"":""outcomes2B""}","{""ImportId"":""color2B""}","{""ImportId"":""bonus2B""}","{""ImportId"":""bet2A""}","{""ImportId"":""outcomes2A""}","{""ImportId"":""color2A""}","{""ImportId"":""bonus2A""}","{""ImportId"":""bonus2B_num""}","{""ImportId"":""bonus2A_num""}","{""ImportId"":""TotalBonus2""}","{""ImportId"":""bet3B""}","{""ImportId"":""outcomes3B""}","{""ImportId"":""color3B""}","{""ImportId"":""bonus3B""}","{""ImportId"":""bet3A""}","{""ImportId"":""outcomes3A""}","{""ImportId"":""color3A""}","{""ImportId"":""bonus3A""}","{""ImportId"":""bonus3B_num""}","{""ImportId"":""bonus3A_num""}","{""ImportId"":""TotalBonus3""}","{""ImportId"":""Outcomes_value_3""}"
+2019-04-29 15:21:43,2019-04-29 15:25:45,IP Address,130.91.236.60,100,242,True,2019-04-29 15:25:46,R_1qU0J2NYUKFAxdH,,,,,39.9597015380859375,-75.19950103759765625,anonymous,EN,Consent,1111111111,Black,,Black,,2,1.105,3.822,5.69,4,Black,,Black,,1,2,1,1,1,1,1,1,1,1,0.977,7.948,8.792,5,White,,Black,,1,1.44,1.44,3.413,1,9,85||33,96||41,76||89,72||47,63||88,89||76,1.119,5.413,6.592,6,Don't know,Yes,1,Female,33,2,,,,,,,,,,,,,,0,31108953,1,1,1,Black,'+5 ECU,1,0,White,'-5 ECU,2,-5,5,10,1,0,White,'-5 ECU,1,0,White,'-5 ECU,-5,-5,,1,0,White,-5,0,1,Black,'-5 ECU,,-5,,
+2019-04-29 15:50:32,2019-04-29 15:57:50,IP Address,130.91.236.60,100,437,True,2019-04-29 15:57:51,R_3JsmPDpc6zApKLu,,,,,39.9597015380859375,-75.19950103759765625,anonymous,EN,Consent,4444444444,Black,,Black,,1,1.941,1.941,3.72,1,Black,,Black,,1,1,1,1,1,1,1,1,1,1,2.426,2.73,11.624,2,Black,,Black,,1,1.282,1.282,2.709,1,8,85||41,94||37,72||91,72||47,63||88,89||76,0.668,6.019,7.935,6,Need to be very careful,Yes,,Female,,,,,,,,,,,,,,,,0,87181704,1,1,0,White,'-5 ECU,1,0,White,'-5 ECU,1,-5,-5,0,1,0,White,'-5 ECU,1,0,White,'-5 ECU,-5,-5,0,1,1,Black,'+5 ECU,1,0,White,'-5 ECU,5,-5,10,
